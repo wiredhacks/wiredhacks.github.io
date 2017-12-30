@@ -3999,3 +3999,9 @@
 					}
 
 	}
+
+/*Miscellaneous*/
+.center-faq {
+	margin: auto;
+	width: 50%;
+}	
